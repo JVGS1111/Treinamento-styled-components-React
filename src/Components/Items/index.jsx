@@ -8,7 +8,7 @@ const Items = styled.div`
     border-radius: 10px;
     margin:2px 0;
     display: flex;
-    aling-items: center;
+    align-items: center;
     justify-content: space-around;
     padding:10px;
     font-size:12px;
